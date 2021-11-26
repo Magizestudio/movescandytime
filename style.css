@@ -1,0 +1,39 @@
+body {
+    width: 1000px;
+    margin: 0;
+    background-color: black;
+}
+
+.main_frm {
+    width: 1920px;
+    height: 600px;
+    background-color: #4d4d4d;
+}
+
+.download_btn {
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: transparent;
+    border-inline-color: transparent;
+    border-inline-end-color: transparent;
+    border-color: white;
+    background-color: transparent;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: auto;
+    margin-left: auto;
+    display: grid;
+}
+
+.download_btn:hover {
+    border-color: #0077ff;
+}
+
+.window_gui_img {
+    width: 600px;
+    height: 400px;
+    margin-top: auto;
+    margin-right: auto;
+    display: grid;
+}
